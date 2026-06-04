@@ -18,4 +18,4 @@ Welcome! This repository is a curated collection of PDF cheat sheets, keyboard s
 1. **Browse Online:** Click on any of the links in the table above to view the PDF directly inside your GitHub browser.
 2. **Download Locally:** Clone this repository to keep a local copy of all cheat sheets on your machine:
 ```bash
-   git clone [https://github.com/CosmicViraj/the-dev-pocket-guide.git] (https://github.com/CosmicViraj/the-dev-pocket-guide.git)
+   git clone [https://github.com/CosmicViraj/the-dev-pocket-guide.git](https://github.com/CosmicViraj/the-dev-pocket-guide.git)
