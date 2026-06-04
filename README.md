@@ -8,8 +8,8 @@ Welcome! This repository is a curated collection of PDF cheat sheets, keyboard s
 | :--- | :--- | :--- |
 | **win/Linux commands** | Essential Mac/Windows keyboard shortcuts | [View PDF](./Ultimate_Windows_Linux_Command_Guide.pdf) |
 | **Git & GitHub** | Common commands for branching, committing, and merging | [View PDF](./Git_GitHub_Command_Handbook.pdf) |
-| **Docker** | Container management and CLI quick reference | [View PDF](./docker-ref.pdf) |
-| **Python** | Syntax reminders, data structures, and built-in methods | [View PDF](./python-syntax.pdf) |
+| **Docker** | Container management and CLI quick reference | [View PDF](./advanced_docker_cheat_sheet.pdf) |
+| **Python & JAVA** | Syntax reminders, data structures, and built-in methods | [View PDF](./advanced_python_java_shortcuts.pdf) |
 
 *(Note: Replace the file names in the brackets above with your actual PDF filenames so they link correctly!)*
 
